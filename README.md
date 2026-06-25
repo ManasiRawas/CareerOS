@@ -1,16 +1,21 @@
 # 🚀 CareerOS
 
-> **AI-Powered Career Operating System**
->
-> An intelligent career platform that combines resume optimization, AI career coaching, job application tracking, interview preparation, and analytics into one seamless experience.
+![Prototype](https://img.shields.io/badge/Project-Prototype-2563EB?style=for-the-badge)
+![AI Powered](https://img.shields.io/badge/AI-Powered-7C3AED?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active%20Development-F59E0B?style=for-the-badge)
+
+> ### 🤖 AI-Powered Career Operating System
+
+CareerOS is a modern AI-powered SaaS platform that helps professionals optimize resumes, prepare for interviews, track job applications, receive AI career coaching, and accelerate their job search from one intelligent dashboard.
+
+🌐 **Live Prototype:** https://same-stool-88242541.figma.site/
+
+⭐ **GitHub Repository:** https://github.com/ManasiRawas/CareerOS
 
 ---
 
-## 🌐 Live Demo
-
-### 🎨 Interactive Figma Prototype
-
-https://same-stool-88242541.figma.site/
 
 ---
 
